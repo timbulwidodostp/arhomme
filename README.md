@@ -1,6 +1,8 @@
 # arhomme
 Arellano and Bonhomme (2017) quantile selection model (by Martin Biewen and Pascal Erhardt, 2020) Use arhomme With STATA 19
 
+https://www.youtube.com/watch?v=lT0-55Ett0M
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
